@@ -1,0 +1,16 @@
+@font-face {
+  font-family: cairo;
+  src: url(../fonts/Cairo-Regular.woff2);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: cairo;
+  src: url(../fonts/Cairo-Medium.woff2);
+  font-weight: 700;
+}
+@font-face {
+  font-family: cairo;
+  src: url(../fonts/Cairo-Bold.woff2);
+  font-weight: 900;
+}

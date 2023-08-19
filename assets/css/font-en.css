@@ -1,0 +1,16 @@
+@font-face {
+  font-family: montesarrat;
+  src: url(../fonts/Montserrat-Regular.woff2);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: montesarrat;
+  src: url(../fonts/Montserrat-Medium.woff2);
+  font-weight: 700;
+}
+@font-face {
+  font-family: montesarrat;
+  src: url(../fonts/Montserrat-Bold.woff2);
+  font-weight: 900;
+}
