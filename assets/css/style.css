@@ -484,6 +484,11 @@ a {
   border: solid 6px #222324;
 }
 
+.showcase-work:hover{
+  transition: 0.6s;
+  transform: translateY(-10px);
+}
+
 .showcase-speech {
   text-align: center;
   margin-bottom: 25px;
